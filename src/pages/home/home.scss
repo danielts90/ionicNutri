@@ -1,3 +1,23 @@
 page-home {
 
 }
+
+.logo {
+    width: auto;
+    margin: auto;
+    display: block;
+    max-width: 30%;
+}
+
+.textos {
+    color: cornflowerblue;
+    background: none;
+    text-align: center;
+    .a {
+        color: blue;
+    }
+}
+
+.botao {
+    border-radius: 30px;
+}
